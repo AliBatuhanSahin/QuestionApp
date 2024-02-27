@@ -12,3 +12,4 @@
 * Test bitiminde her soruya verilen yanıt, doğru ve yanlış sayıları kullanıcı ile paylaşılacaktır.
 
 Projenin canlı hali linktedir.
+https://legendary-pithivier-96fad5.netlify.app

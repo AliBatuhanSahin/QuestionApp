@@ -1,0 +1,56 @@
+.result-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 50px auto;
+    min-height: 100vh;
+  }
+  
+  .result-screen h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .result-screen h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-bottom: 20px;
+  }
+  
+  .result-screen p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .result-screen ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .result-screen li {
+    display: flex;
+    font-size: 1.1rem;
+    color: #777;
+    margin-bottom: 5px;
+  }
+  
+  .correct {
+    color: #2ecc71;
+  }
+  
+  .incorrect {
+    color: #e74c3c;
+  }
+  
+  .not-answered {
+    color: #999;
+  }

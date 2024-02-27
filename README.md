@@ -1,4 +1,4 @@
-#React Question App Projesi
+# React Question App Projesi
 * Çalışma 10 sorudan oluşmaktadır.
 
 * Her soru ekranda en fazla 30sn kalmaktadır
